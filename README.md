@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Johnrick Castro
 #### I am a web Developer
-![I am a web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I made websites from scratch, and looking for a job that qualify my skill but I am willing to learn new things.
 
 Skills: Express / Node.js/ JS / HTML / CSS
