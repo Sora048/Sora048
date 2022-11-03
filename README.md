@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Johnrick Castro
-I made websites from scratch, and looking for a job that qualify my skill but I am willing to learn new things.
+I made websites from scratch, looking for a job that qualify my skills and willing to learn new things.
 
 Skills: PHP / MYSQL / Node.js / JS / HTML / CSS
 
