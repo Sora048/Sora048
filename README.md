@@ -7,6 +7,8 @@ Skills: PHP / MYSQL / Node.js / JS / HTML / CSS
 - 🌱 I’m currently learning WordPress 
 - 🤔 I’m looking for help with fellow developer 
 - 📫 How to reach me: jricke.castro@gmail.com 
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](http://castrojohnrick.42web.io/)  
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sora048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/johnrick-castro-73810424a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCyILvD74bnqSUGd2eGEKkBw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://psu-acc-appoint.epizy.com/)  
