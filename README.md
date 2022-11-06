@@ -7,7 +7,7 @@ Skills: PHP / MYSQL / Node.js / JS / HTML / CSS
 - 🌱 I’m currently learning WordPress 
 - 🤔 I’m looking for help with fellow developer 
 - 📫 How to reach me: jricke.castro@gmail.com 
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](http://castrojohnrick.42web.io/)  
+- 👾 My Portfolio http://castrojohnrick.42web.io
 
 
 
