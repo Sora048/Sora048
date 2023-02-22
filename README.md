@@ -3,9 +3,8 @@ I made websites from scratch, looking for a job that qualify my skills and willi
 
 Skills: PHP / MYSQL / Node.js / JS / HTML / CSS
 
-- 🔭 I’m currently working on my own company 
-- 🌱 I’m currently learning WordPress 
-- 🤔 I’m looking for help with fellow developer 
+- 🔭 I’m currently working on my own
+- 🌱 I’m currently learning Freelancing 
 - 📫 How to reach me: jricke.castro@gmail.com 
 - 👾 My Portfolio https://castrojohnrick.42web.io/
 
