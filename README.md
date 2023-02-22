@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Johnrick Castro
 I made websites from scratch, looking for a job that qualify my skills and willing to learn new things.
 
-Skills: PHP / MYSQL / Node.js / JS / HTML / CSS / Laravel 9
+Skills: PHP / MYSQL / Node.js / JS / HTML / CSS
 
 - 🔭 I’m currently working on my own company 
 - 🌱 I’m currently learning WordPress 
